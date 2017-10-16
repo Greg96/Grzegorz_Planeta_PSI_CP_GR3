@@ -41,7 +41,7 @@ public:
 	{
 		if(x<p)
 		{
-			return -1;
+			return 0;
 		}
 		else
 		{
