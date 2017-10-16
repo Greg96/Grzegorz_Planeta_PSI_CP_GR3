@@ -56,6 +56,7 @@ public:
 			{
 				w[i]+=learnRatio*(d-perceptron())*x[i];
 			}
+			p+=learnRatio*(d-perceptron());
 		}
 		for(int i=0;i<n;i++)
 			{
