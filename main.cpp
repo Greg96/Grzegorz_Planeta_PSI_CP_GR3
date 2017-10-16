@@ -50,6 +50,7 @@ public:
 	}
 	void learn(int d)
 	{
+		int circle=0;
 		while(d!=perceptron())
 		{
 			for(int i=0;i<n;i++)
@@ -57,11 +58,13 @@ public:
 				w[i]+=learnRatio*(d-perceptron())*x[i];
 			}
 			p+=learnRatio*(d-perceptron());
+			circle++;
 		}
 		for(int i=0;i<n;i++)
 			{
 				cout<<"waga:"<<w[i]<<endl;
 		}
+		cout<<"ile kregow(poprawek):"<<circle<<endl;
 	}
 
 			
