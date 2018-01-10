@@ -1,7 +1,12 @@
-Scenariusz​ ​3 
- Temat​ ​ ćwiczenia: Budowa​ ​i​ ​działanie​ ​sieci​ ​wielowarstwowej. 
- 1.​ ​ Cel​ ​ ćwiczenia Celem​ ​ćwiczenia​ ​jest​ ​poznanie​ ​budowy​ ​i​ ​działania​ ​wielowarstwowych​ ​sieci​ ​neuronowych poprzez​ ​uczenie​ ​z​ ​użyciem​ ​algorytmu​ ​wstecznej​ ​propagacji​ ​błędu​ ​rozpoznawania konkretnych​ ​liter​ ​alfabetu. 
- 2.​ ​ Zadania​ ​ do​ ​ wykonania a) Wygenerowanie​ ​danych​ ​uczących​ ​i​ ​testujących,​ ​zawierających​ ​20​ ​dużych​ ​liter dowolnie​ ​wybranego​ ​alfabetu​ ​w​ ​postaci​ ​dwuwymiarowej​ ​tablicy​ ​np.​ ​4x5​ ​pikseli​ ​dla jednej​ ​litery. przykładowe​ ​znaki:​ ​​http://www.ai.c-labtech.net/sn/litery.html b) Przygotowanie​ ​(implementacja​ ​lub​ ​wykorzystanie​ ​gotowych​ ​narzędzi) wielowarstwowej​ ​sieci​ ​oraz​ ​algorytmu​ ​wstecznej​ ​propagacji​ ​błędu.  c) Uczenie​ ​sieci​ ​dla​ ​różnych​ ​współczynników​ ​uczenia​ ​i​ ​bezwładności. d) Testowanie​ ​sieci. 
- 3.​ ​ Sprawozdanie Sprawozdanie​ ​powinno​ ​zostać​ ​przygotowane​ ​w​ ​formacie​ ​np.​ ​docx​ ​i​ ​zawierać: 1) syntetyczny​ ​opis​ ​budowy​ ​użytej​ ​sieci​ ​i​ ​algorytmu​ ​uczenia, 2) zestawienie​ ​otrzymanych​ ​wyników 3) analizę​ ​i​ ​dyskusję​ ​błędów​ ​uczenia​ ​i​ ​testowania​ ​opracowanej​ ​sieci​ ​w​ ​zależności​ ​od wartości​ ​współczynnika​ ​uczenia​ ​i​ ​bezwładności, 4) sformułowanie​ ​wniosków, 5) listing​ ​całego​ ​kodu​ ​programu​ ​lub​ ​zrzuty​ ​konfiguracji​ ​i​ ​wykorzystania​ ​programu. 
- 4.​ ​ Ocena Za​ ​wykonanie​ ​ćwiczenia​ ​ocena​ ​2.0​ ​-​ ​5.0 
+Scenariusz​ ​2
+Temat​ ​ ćwiczenia: Budowa​ ​ i​ ​ działanie​ ​ sieci​ ​ jednowarstwowej 
+ 
+1.​ ​ Cel​ ​ ćwiczenia Celem​ ​ ćwiczenia​ ​ jest​ ​ poznanie​ ​ budowy​ ​ i​ ​ działania​ ​ jednowarstwowych​ ​ sieci​ ​ neuronowych oraz​ ​ uczenie​ ​ rozpoznawania​ ​ wielkości​ ​ liter. 
+ 
+2.​ ​ Zadania​ ​ do​ ​ wykonania a) Wygenerowanie​ ​ danych​ ​ uczących​ ​ i​ ​ testujących,​ ​ zawierających​ ​ 10​ ​ dużych​ ​ i​ ​ 10 małych​ ​ liter​ ​ dowolnie​ ​ wybranego​ ​ alfabetu​ ​ w​ ​ postaci​ ​ dwuwymiarowej​ ​ tablicy​ ​ np.​ ​ 4x5 pikseli​ ​ dla​ ​ jednej​ ​ litery. przykładowe​ ​ znaki:​ ​
+​ http://www.ai.c-labtech.net/sn/litery.html b) Przygotowanie​ ​ (implementacja​ ​ lub​ ​ wykorzystanie​ ​ gotowych​ ​ narzędzi)​ ​ dwóch jednowarstwowych​ ​ sieci​ ​ -​ ​ każda​ ​ wg.​ ​ innego​ ​ algorytmu​ ​ podanego​ ​ na​ ​ wykładzie.  c) Uczenie​ ​ sieci​ ​ dla​ ​ przy​ ​ różnych​ ​ współczynnikach​ ​ uczenia. d) Testowanie​ ​ sieci. 
+ 
+3.​ ​ Sprawozdanie Sprawozdanie​ ​ powinno​ ​ zostać​ ​ przygotowane​ ​ w​ ​ formacie​ ​ np.​ ​ docx​ ​ i​ ​ zawierać: 1) syntetyczny​ ​ opis​ ​ budowy​ ​ oraz​ ​ wykorzystanych​ ​ sieci​ ​ i​ ​ algorytmów​ ​ uczenia, 2) zestawienie​ ​ otrzymanych​ ​ wyników 3) analizę​ ​ i​ ​ dyskusję​ ​ błędów​ ​ uczenia​ ​ i​ ​ testowania​ ​ opracowanej​ ​ sieci​ ​ w​ ​ zależności​ ​ od wartości​ ​ współczynnika​ ​ uczenia​ ​ oraz​ ​ wybranych​ ​ algorytmów, 4) sformułowanie​ ​ wniosków, 5) listing​ ​ całego​ ​ kodu​ ​ programu​ ​ lub​ ​ zrzuty​ ​ konfiguracji​ ​ i​ ​ wykorzystania​ ​ programu. 
+ 
+4.​ ​ Ocena Za​ ​ wykonanie​ ​ ćwiczenia​ ​ ocena​ ​ 2.0​ ​ -​ ​ 5.0 
  
