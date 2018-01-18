@@ -1,0 +1,13 @@
+Scenariusz​ ​ 4 
+ 
+Temat​ ​ ćwiczenia: Uczenie​ ​ sieci​ ​ regułą​ ​ Hebba. 
+ 
+1.​ ​ Cel​ ​ ćwiczenia Celem​ ​ ćwiczenia​ ​ jest​ ​ poznanie​ ​ działania​ ​ reguły​ ​ Hebba​ ​ dla​ ​ sieci​ ​ jednowarstwowej​ ​ na przykładzie​ ​ grupowania​ ​ liter​ ​ alfabetu. 
+ 
+2.​ ​ Zadania​ ​ do​ ​ wykonania a) Wygenerowanie​ ​ danych​ ​ uczących​ ​ i​ ​ testujących,​ ​ zawierających​ ​ 20​ ​ dużych​ ​ liter dowolnie​ ​ wybranego​ ​ alfabetu​ ​ w​ ​ postaci​ ​ dwuwymiarowej​ ​ tablicy​ ​ np.​ ​ 4x5​ ​ pikseli​ ​ dla jednej​ ​ litery. przykładowe​ ​ znaki:​ ​
+​ http://www.ai.c-labtech.net/sn/litery.html b) Przygotowanie​ ​ (implementacja​ ​ lub​ ​ wykorzystanie​ ​ gotowych​ ​ narzędzi) jednowarstwowej​ ​ sieci​ ​ oraz​ ​ reguły​ ​ Hebba​ ​ z​ ​ i​ ​ bez​ ​ współczynnika​ ​ zapominania.  c) Uczenie​ ​ sieci​ ​ dla​ ​ różnych​ ​ współczynników​ ​ uczenia​ ​ i​ ​ zapominania. d) Testowanie​ ​ sieci. 
+ 
+3.​ ​ Sprawozdanie Sprawozdanie​ ​ powinno​ ​ zostać​ ​ przygotowane​ ​ w​ ​ formacie​ ​ np.​ ​ docx​ ​ i​ ​ zawierać: 1) syntetyczny​ ​ opis​ ​ budowy​ ​ użytej​ ​ sieci​ ​ i​ ​ algorytmów​ ​ uczenia, 2) zestawienie​ ​ otrzymanych​ ​ wyników 3) analizę​ ​ i​ ​ dyskusję​ ​ błędów​ ​ uczenia​ ​ i​ ​ testowania​ ​ oraz​ ​ wyników​ ​ grupowania opracowanej​ ​ sieci​ ​ w​ ​ zależności​ ​ od​ ​ wartości​ ​ współczynnika​ ​ uczenia​ ​ i​ ​ zapominania, 4) sformułowanie​ ​ wniosków, 5) listing​ ​ całego​ ​ kodu​ ​ programu​ ​ lub​ ​ zrzuty​ ​ konfiguracji​ ​ i​ ​ wykorzystania​ ​ programu. 
+ 
+4.​ ​ Ocena Za​ ​ wykonanie​ ​ ćwiczenia​ ​ ocena​ ​ 2.0​ ​ -​ ​ 5.0 
+ 
